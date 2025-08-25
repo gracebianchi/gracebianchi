@@ -1,9 +1,16 @@
-## Hi there 👋
+# Hi there, I'm Grace Bianchi
+
+## Introduction
+
+My name is Grace Bianchi and I am a rising junior at the University of California, Santa Barbara where I am pursuing a double major in Statistics and Data Science and Economics. I enjoy applying analytical and computationa skills to solve complex problems and uncover meaning. I am eager to learn and take on new challenges at the intersection of data and innovation.
+
+
 
 <!--
 **gracebianchi/gracebianchi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started:[Resume July 2025-Grace Bianchi (2).docx (1).pdf](https://github.com/user-attachments/files/21975082/Resume.July.2025-Grace.Bianchi.2.docx.1.pdf)
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
