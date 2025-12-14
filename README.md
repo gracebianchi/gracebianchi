@@ -2,7 +2,7 @@
 
 ## Introduction
 
-My name is Grace Bianchi and I am a rising junior at the University of California, Santa Barbara where I am pursuing a double major in Statistics and Data Science and Economics. I enjoy applying analytical and computationa skills to solve complex problems and uncover meaning. I am eager to learn and take on new challenges at the intersection of data and innovation.
+My name is Grace Bianchi and I am a junior at the University of California, Santa Barbara, where I am pursuing a double major in Statistics and Data Science and Economics. I enjoy applying analytical and computational skills to solve complex problems and uncover meaning. I am eager to learn and take on new challenges at the intersection of data and innovation in the pursuit of a career in quantitative finance. 
 
 
 
