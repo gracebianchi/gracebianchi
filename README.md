@@ -30,8 +30,8 @@ Interned on the Data Quality and Solutions team at MUFG, one of the world's larg
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ## Projects
-[
-### [SPY Markov Regime-Switching Volatility Forecaster](](https://github.com/gracebianchi/vol_forecaster) - In Progress
+
+### [SPY Markov Regime-Switching Volatility Forecaster](https://github.com/gracebianchi/vol_forecaster) - In Progress
 
 
 <!--
