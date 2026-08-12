@@ -2,7 +2,7 @@
 
 I'm a rising senior at UC Santa Barbara double-majoring in Statistics & Data Science (B.S.) and Economics (B.A.), with a quantitative foundation built through coursework in econometrics, machine learning, and stochastic processes. 
 
-![Resume](https://github.com/gracebianchi/gracebianchi/blob/main/Grace%20Bianchi%20Resume%202026%20(15).pdf)
+[Resume](https://github.com/gracebianchi/gracebianchi/blob/main/Grace%20Bianchi%20Resume%202026%20(15).pdf) | [LinkedIn](http://www.linkedin.com/in/gracefbianchi) | gracefbianchi@gmail.com
 
 ## What I'm Doing Now
 
