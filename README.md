@@ -28,6 +28,12 @@ Interned on the Data Quality and Solutions team at MUFG, one of the world's larg
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+## Projects
+[
+### [SPY Markov Regime-Switching Volatility Forecaster](](https://github.com/gracebianchi/vol_forecaster) - In Progress
+
+
 <!--
 **gracebianchi/gracebianchi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
