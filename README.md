@@ -31,7 +31,7 @@ Interned on the Data Quality and Solutions team at MUFG, one of the world's larg
 
 ## Projects
 
-### [SPY Markov Regime-Switching Volatility Forecaster](https://github.com/gracebianchi/vol_forecaster) - In Progress
+### [SPY Markov Regime-Switching Volatility Forecaster](https://github.com/gracebianchi/volatility-forecaster) - In Progress
 
 
 <!--
