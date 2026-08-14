@@ -4,7 +4,7 @@ I'm a rising senior at UC Santa Barbara double-majoring in Statistics & Data Sci
 
 [Resume](https://github.com/gracebianchi/gracebianchi/blob/main/Grace%20Bianchi%20Resume%202026%20(20).pdf) | [LinkedIn](http://www.linkedin.com/in/gracefbianchi) | gracefbianchi@gmail.com
 
-## What I'm Doing Now
+## Recent Experience
 
 ### Data Quality and Solutions Summer Analyst - MUFG - Summer 2026
 
