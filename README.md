@@ -31,7 +31,7 @@ Interned on the Data Quality and Solutions team at MUFG, one of the world's larg
 
 ## Projects
 
-### [SPY Markov Regime-Switching Volatility Forecaster](https://github.com/gracebianchi/volatility-forecaster) - In Progress
+### [SPY Markov Regime-Switching Volatility Forecaster](https://github.com/gracebianchi/volatility-forecaster) 
 
 Built a multi-stage volatility forecasting system for SPY, progressing from classical models (EWMA, GARCH, HAR-RV) through machine learning extensions to a full Markov regime-switching framework with formal risk-management backtesting. The project's central question shifts at each stage, from "which model forecasts volatility best" to "does modeling volatility regimes actually improve risk management," and is evaluated accordingly, with Stage 1 judged on forecast RMSE and Stage 2 on VaR/ES tail-risk accuracy. It now runs as a live daily forecaster via a GitHub Actions pipeline that pulls fresh market data automatically, with a planned extension to write its outputs to AWS S3.
 
